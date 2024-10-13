@@ -15,14 +15,14 @@ More things to come...
 - **European Options**: Pricing and greeks for european option call and put
 
 ## Implementation ✍️
->Class version
->
+### Class version
+
 >- EuropeanOption.hpp: Header file containing the declaration of the EuropeanOption class, which defines the properties and pricing methods for European options.
 >- EuropeanOption.cpp: Contains the implementation of the EuropeanOption class.
 >- Pricer.cpp : Main file compiling the code
 
->Straightforward version
->
+### Straightforward version
+
 >EuropeanOption_wo_class.cpp : Directly price using one cpp file
 
 ## Results 💰
